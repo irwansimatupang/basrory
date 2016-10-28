@@ -15,7 +15,7 @@ if ($koneksi) {
     echo "ditemukan";
 }
 else {
-    "anda belum cukup umur";
+    "anda belum cukup umur_bos";
 }
 
 
